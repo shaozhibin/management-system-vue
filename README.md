@@ -5,23 +5,25 @@
 ## Build Setup
 
 ``` bash
-# install dependencies
+# 安装依赖
 npm install
 
-# serve with hot reload at localhost:8080
+# 启动服务
 npm run dev
 
 # build for production with minification
 npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
 ```
+## 知识点
+* vue vue-router
+* webpack
+* echarts
+* element-ui
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## 项目介绍
+vue + vue-router 的单页面后台管理系统
+
+![](https://static.lehe.com/higo/feseTT/m/refund/WechatIMG15.jpeg)
+
+![](https://static.lehe.com/higo/feseTT/m/refund/WechatIMG16.jpeg)
+
