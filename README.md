@@ -22,6 +22,7 @@ npm run build
 * webpack
 * echarts
 * element-ui
+* less
 
 ## 项目介绍
 vue + vue-router 的单页面后台管理系统
